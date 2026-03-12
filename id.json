@@ -1,12 +1,8 @@
 {
-  "streams": [
+  "iframes": [
     {
-      "name": "bein3",
-      "url": "https://offsideverse-drmplayer.vercel.app/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&keys=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-    },
-    {
-      "name": "Match 2",
-      "url": "https://example.com/stream2"
+      "id": "bein3",
+      "iframeSrc": "https://offsideverse-drmplayer.vercel.app/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&keys=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
     }
   ]
 }
