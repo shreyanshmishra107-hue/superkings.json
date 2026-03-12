@@ -5,6 +5,12 @@
       "name": "Bein Sports 3",
       "type": "iframe",
       "iframeSrc": "https://superkings-drmplayer.pages.dev/?url=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&keys=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+    },
+    {
+      "id": "ss1hinhd",
+      "name": "Star Sports 1 Hindi HD",
+      "type": "iframe",
+      "iframeSrc": "https://shwe7ank-jeeyo.netlify.app/watch.html?id=1108"
     }
   ]
 }
